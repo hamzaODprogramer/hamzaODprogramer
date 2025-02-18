@@ -28,4 +28,4 @@ I am a **Full Stack and Mobile Developer** with a passion for building scalable 
 ---
 
 ## 💻 Languages-Frameworks-Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py,java,cpp,c,cs,ts,mysql,mongodb,postgres,sqlite,react,nextjs,express,nodejs,flask,fastapi,laravel,tailwind,bootstrap,materialui,git,github,vscode,eclipse,postman,bash,vercel,vite,latex,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py,java,cpp,c,cs,ts,mysql,mongodb,postgres,sqlite,prisma,react,redux,nextjs,express,nodejs,flask,fastapi,laravel,tailwind,bootstrap,materialui,git,github,vscode,eclipse,postman,bash,vercel,vite,latex,md,notion,opencv)](https://skillicons.dev)
