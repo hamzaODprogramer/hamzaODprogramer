@@ -73,9 +73,14 @@ const hamza = {
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,prisma&theme=dark" />
 </p>
 
+### 🐳 Devops
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,cypress,githubactions,vercel&theme=dark" />
+</p>
+
 ### 🔧 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman,bash,docker,cypress,githubactions,vercel,vite,latex,md,notion,opencv&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,postman,bash,vite,latex,md,notion,opencv&theme=dark" />
 </p>
 
 ---
