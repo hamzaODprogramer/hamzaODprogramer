@@ -103,8 +103,8 @@ class CurrentlyLearning:
     def __init__(self):
         self.topics = [
             "🤖 Deep Learning & Neural Networks",
-            "☁️ Cloud Computing (AWS, Azure)",
-            "🐳 Docker & Kubernetes",
+            "☁️ Cloud Computing",
+            "🐳 Docker",
             "🚀 Microservices Architecture",
             "📊 Data Science & Analytics"
         ]
