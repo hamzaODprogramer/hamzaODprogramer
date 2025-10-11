@@ -75,7 +75,7 @@ const hamza = {
 
 ### 🔧 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman,bash,vercel,vite,latex,md,notion,opencv&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman,bash,docker,cypress,githubactions,vercel,vite,latex,md,notion,opencv&theme=dark" />
 </p>
 
 ---
@@ -104,7 +104,8 @@ class CurrentlyLearning:
         self.topics = [
             "🤖 Deep Learning & Neural Networks",
             "☁️ Cloud Computing",
-            "🐳 Docker",
+            "🐳 Docker & Containerization",
+            "🔄 CI/CD Pipeline Automation",
             "🚀 Microservices Architecture",
             "📊 Data Science & Analytics"
         ]
