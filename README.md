@@ -36,16 +36,12 @@ const hamza = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzaODprogramer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaODprogramer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=Jupyter%20Notebook" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=hamzaODprogramer&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaODprogramer&theme=tokyonight&hide_border=true&border_radius=10&card_width=400" alt="GitHub Streak" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=hamzaODprogramer&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzaODprogramer&theme=tokyonight" alt="Profile Summary" width="100%"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hamzaODprogramer&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" width="350"/>
 </div>
 
 ---
@@ -92,10 +88,12 @@ const hamza = {
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaODprogramer&custom_title=Hamza's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+  
+  [![Hamza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hamzaODprogramer&theme=tokyo-night&hide_border=true&area=true)](https://github.com/hamzaODprogramer)
+  
 </div>
 
 ---
