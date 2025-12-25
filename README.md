@@ -37,12 +37,11 @@ const hamza = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hamzaODprogramer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaODprogramer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=Jupyter%20Notebook,Tcl" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaODprogramer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=Jupyter%20Notebook" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaODprogramer&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaODprogramer&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+  <img src="https://streak-stats.demolab.com/?user=hamzaODprogramer&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
 </div>
 
 <div align="center">
@@ -73,7 +72,7 @@ const hamza = {
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,prisma&theme=dark" />
 </p>
 
-### 🐳 Devops
+### 🐳 DevOps
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,cypress,githubactions,vercel&theme=dark" />
 </p>
