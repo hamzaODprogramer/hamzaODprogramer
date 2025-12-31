@@ -60,12 +60,12 @@ const hamza = {
 
 ### ⚙️ Backend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,laravel,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,flask,fastapi,laravel,php&theme=dark" />
 </p>
 
 ### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,prisma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,sqlite,prisma&theme=dark" />
 </p>
 
 ### 🐳 DevOps
