@@ -41,7 +41,7 @@ const hamza = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hamzaODprogramer&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" width="350"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hamzaODprogramer&hide=Jupyter%20Notebook,Tcp&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" width="350"/>
 </div>
 
 ---
