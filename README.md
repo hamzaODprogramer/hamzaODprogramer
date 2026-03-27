@@ -27,7 +27,7 @@ const hamza = {
 - 🎓 **Master's Student** in AI & Computer Engineering at FST Marrakech
 - 💼 **Professional License** in Information Systems & Network Engineering
 - 🔭 Building scalable web & mobile applications
-- 🌱 Currently mastering **Deep Learning** and **Cloud Architecture**
+- 🌱 Currently mastering **Deep Learning**
 - 🎯 2025 Goals: Contribute to Open Source & Build AI-powered solutions
 - ⚡ Fun fact: Coffee + Code = Magic ☕️💻
 
@@ -105,7 +105,6 @@ class CurrentlyLearning:
     def __init__(self):
         self.topics = [
             "🤖 Deep Learning & Neural Networks",
-            "☁️ Cloud Computing",
             "🐳 Docker & Containerization",
             "🔄 CI/CD Pipeline Automation",
             "🚀 Microservices Architecture",
