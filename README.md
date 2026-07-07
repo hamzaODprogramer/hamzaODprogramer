@@ -50,7 +50,7 @@ const hamza = {
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,js,ts,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,php&theme=dark" />
 </p>
 
 ### 🌐 Frontend Development
@@ -60,7 +60,7 @@ const hamza = {
 
 ### ⚙️ Backend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,flask,fastapi,laravel,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,flask,fastapi,php&theme=dark" />
 </p>
 
 ### 🗄️ Databases
@@ -70,7 +70,7 @@ const hamza = {
 
 ### 🐳 DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,cypress,githubactions,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,githubactions,vercel&theme=dark" />
 </p>
 
 ### 🔧 Tools & Platforms
