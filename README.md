@@ -70,7 +70,7 @@ const hamza = {
 
 ### 🐳 DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,githubactions,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,githubactions,jenkins,vercel&theme=dark" />
 </p>
 
 ### 🔧 Tools & Platforms
