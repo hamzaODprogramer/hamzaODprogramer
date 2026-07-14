@@ -65,7 +65,7 @@ const hamza = {
 
 ### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,sqlite,prisma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,supabase,sqlite,prisma&theme=dark" />
 </p>
 
 ### 🐳 DevOps
